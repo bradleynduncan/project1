@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: lightblue;
+}
+
+h1 {
+     text-align: center;
+}
+h2 {
+     text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1><b></b>BRADLEY N. DUNCAN </b> </h1>
+<h2>bradleynduncan@gmail.com</h2>
+<h2>177-12 106th Avenue</h2>
+<h2>Jamaica, N.Y. 11433</h2>
+<h2>718-725-9227</h2>
+
+<p>This is a paragraph.</p>
+
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: lightblue;
+}
+
+h1 {
+     text-align: center;
+}
+h2 {
+     text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1><b></b>BRADLEY N. DUNCAN </b> </h1>
+<h2>bradleynduncan@gmail.com</h2>
+<h2>177-12 106th Avenue</h2>
+<h2>Jamaica, N.Y. 11433</h2>
+<h2>718-725-9227</h2>
+
+<p>
+OBJECTIVE:	A position in the field of computers that would give me the 
+			opportunity to contribute my skills to your organization.
+
+EDUCATION:	YORK COLLEGE	(City University of NY)			Jamaica, NY.
+			City University of New York
+			Bachelor of Science, June 1994.  Major: ISM. Overall GPA 3.04
+
+06/06 – Present	CITY UNIVERSITY OF NEW YORK				New York, NY.
+Senior System Specialist, Database Administration
+•	Write applications that automate manual processes in Unix shells.
+•	Support of University-wide on-line integrated library system.
+•	Support and upgrade Ezproxy servers.
+	
+06/99 – 4/2006	CITY UNIVERSITY OF NEW YORK				New York, NY.
+Senior System Specialist, Database Administration
+•	Administrator of new Sun E10K/E15K Enterprise Servers.
+•	Assist the Director of Systems in the management of the University-wide on-line    
+integrated library system.
+•	Assist in the project management of a library system supporting 19 CUNY campus libraries, implementation of the new Unix-based (E10K) open-system client server library application and; implementation of the CUNY Digital Library.
+•	RS/6000/AIX system administration.
+•	Apache web server administration.
+
+05/96 - 6/99		IBM									Rochester, MN.
+			Software Engineer
+•	Project leader for migration of DB2/6000 databases to a DB/400 database server.
+•	DB2/6000 Server Administrator.
+•	AFS/DFS Server Administrator (100 RS/6000 file servers, 5000 RS/6000 clients)
+•	ADSM Administrator.
+•	RS/6000 hardware and software administrator.
+•	Upgraded AIX to Y2K compliance.
+
+08/94 - 05/95		SQPA BEACON SCHOOL						Jamaica, NY.
+(Evenings)		Coordinator of Computer Training Program
+•	Designed/taught Introduction to computers courses.
+•	Supervised volunteer and summer staff.
+                   
+
+
+
+
+
+12/94 - 03/95		YORK COLLEGE (City University of NY)			Jamaica, NY.
+			Programmer/Systems Analyst
+•	Developed/maintained tools written in Clipper for HR Information System Database.
+•	Installed computer hardware and software.
+•	Wrote user manuals for Human Resources Information System.
+ 
+06/93 - 12/94		UAPC (City University of New York)				Brooklyn, NY.
+ 			Information Support Specialist
+•	Troubleshot help desk calls from users.
+•	Installed RJE/SNA workstations in NYC schools.
+•	Developed computer hardware inventory program in DbaseIV.
+•	Coordinated and performed installation of system in NYC high schools and CUNY colleges.
+
+01/91 - 06/93		INTERNAL REVENUE SERVICE				New York, NY.
+			Computer Assistant
+•	Developed programs in Dbase and Clipper.
+•	Installed and replaced hardware in PC's.
+•	Performed backup on UNIX systems.
+•	Performed inventory of computer systems.
+
+03/88 - 04/90		SKIDMORE OWINGS & MERRILL				New York, NY.
+			Computer Operator
+•	Performed backups and restores on VAX and UNIX systems.
+•	Installed and replaced hardware on IBM RT computers.
+
+10/85 - 2/88		NYC DEPARTMENT OF CITY PLANNING			New York, NY.
+			Geographic Researcher/Intern
+•	Maintained DCPLION database of NYC
+•	Digitized NYC tax blocks and tax lots.
+
+COMPUTER SKILLS:
+HARDWARE/SYSTEMS: RS/6000, VAX, PC, AS/400, EMC, E10K, E15K
+NETWORK:	Ethernet, Token Ring, TCP/IP, SNA.
+SOFTWARE/OS:	AIX, VM/CMS, VMS/DCL, DOS, OS/2, MVS, OS/400, Solaris, Linux
+AFS, DCE/DFS, DB2, DB2 Connect,Novell, SNA  Server, Oracle,wrappers, ssh
+JAVA.Veritas, Powerpath, Windows 2000 server.
+
+REFERENCES:	Available upon request.
+
+</p>
+
+</body>
+</html>
